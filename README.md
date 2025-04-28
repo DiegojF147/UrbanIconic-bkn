@@ -33,4 +33,9 @@ Este proyecto es un backend que implementa las operaciones CRUD (Create, Read, U
 -  POST /api/products/ : Crea un nuevo producto. 
 -  GET /api/products/<product_id> : Obtiene un producto específico. 
 -  PUT /api/products/<product_id> : Actualiza un producto existente. 
--  DELETE /api/products/<product_id> : Elimina un producto. 
+-  DELETE /api/products/<product_id> : Elimina un producto.
+
+## Estado del proyecto
+
+En desarrollo.
+Pensado como base para un sistema de gestión de productos con API RESTful.
